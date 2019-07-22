@@ -6,7 +6,7 @@
 - Modify url, using source of https://github.com/lev-savranskiy/guthub-colorer/blob/master/guthub-colorer.js
 - Go to pull requests page
 - Click on bookmark created before
-- Pull requests are autotagged!
+- Pull requests are autotagged (Approved, Review required, Changes requested)
 <img src="https://raw.githubusercontent.com/lev-savranskiy/guthub-colorer/master/github-colorer-done.PNG" width="600">
 - see video at https://webm.red/8LMm.webm
 
